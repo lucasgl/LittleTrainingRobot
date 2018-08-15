@@ -1,6 +1,6 @@
 # LittleTrainingRobot
 
-[![Build status](https://ci.appveyor.com/api/projects/status/86p1hqtvp8m8xfj5/branch/master?svg=true)](https://ci.appveyor.com/project/lucasgl/littletrainingrobot/branch/master)
+[![Build Status]( https://img.shields.io/appveyor/ci/lucasgl/littletrainingrobot/master.svg)](https://ci.appveyor.com/project/lucasgl/littletrainingrobot)
 
 Code to use Pi and Blocky with Windows 10 IoT to run a small little robot.
 
